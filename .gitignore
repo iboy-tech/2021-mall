@@ -30,8 +30,7 @@ my_db_init.py
 
 # system img
 
-public/backups/*
-public/sql/*
+
 # sql是必须要创建的
 # # !alipay.png
 # # !null.png
@@ -43,3 +42,5 @@ public/sql/*
 ssl
 tg.py
 *.db
+*.sql
+*.log
